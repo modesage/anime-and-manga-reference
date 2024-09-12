@@ -237,7 +237,10 @@ function App() {
       </main>
 
       <footer className="mt-8 text-center text-sm text-gray-400">
-        <p>&copy; 2024 Anime and Manga Reference. All rights reserved.</p>
+        <p className="text-sm">
+          &copy; {new Date().getFullYear()} Anime and Manga Reference. All rights reserved.
+        </p>
+        <p className="text-sm">Designed and developed with 🤍 by modesage.</p>
       </footer>
     </div>
   );
