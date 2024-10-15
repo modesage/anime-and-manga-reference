@@ -1,0 +1,23 @@
+# Ignore node_modules directory (will be rebuilt in the container)
+node_modules
+
+# Ignore build output
+dist
+dist-ssr
+
+# Ignore log files
+npm-debug.log
+yarn-debug.log
+pnpm-debug.log
+
+# Ignore local environment files
+*.local
+
+# Ignore Git files and folders
+.git
+.gitignore
+
+# Ignore editor and IDE directories
+.vscode
+.idea
+.DS_Store
