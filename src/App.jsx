@@ -74,21 +74,6 @@ function App() {
                 Aniplay
               </a>
             </li>
-            <li className="flex items-center">
-              <a
-                href="https://www.crunchyroll.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center text-blue-400 hover:underline"
-              >
-                <img
-                  src="https://external-content.duckduckgo.com/ip3/www.crunchyroll.com.ico"
-                  alt="Crunchyroll"
-                  className="mr-2"
-                />
-                Crunchyroll
-              </a>
-            </li>
           </ul>
         </section>
 
@@ -238,7 +223,7 @@ function App() {
 
       <footer className="mt-8 text-center text-sm text-gray-400">
         <p className="text-sm">
-          &copy; {new Date().getFullYear()} Anime and Manga Reference. All rights reserved.
+          &copy; {new Date().getFullYear()} Anime and Manga Reference.
         </p>
         <p className="text-sm">Designed and developed with 🤍 by modesage.</p>
       </footer>
