@@ -1,8 +1,8 @@
 function App() {
   return (
-    <div className="bg-customBlack min-h-screen flex flex-col items-center p-6">
+    <div className="bg-customBlack min-h-screen flex flex-col items-center p-6 font-mono">
       <header className="text-center mb-8 text-marbelWhite">
-        <h1 className="text-3xl font-bold">Anime and Manga Reference</h1>
+        <h1 className="text-3xl font-mono">Anime and Manga Reference</h1>
         <p className="text-lg mt-2">
           Your go-to resource for anime and manga related content.
         </p>
