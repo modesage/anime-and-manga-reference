@@ -91,10 +91,10 @@ function App() {
               >
                 <img
                   src="https://static.everythingmoe.com/icons/lchart.png"
-                  alt="Livechart - Airing schedule"
+                  alt="Livechart"
                   className="mr-2"
                 />
-                Livechart - Airing schedule
+                Livechart
               </a>
             </li>
             <li className="flex items-center">
@@ -106,10 +106,10 @@ function App() {
               >
                 <img
                   src="https://static.everythingmoe.com/icons/chiaki.png"
-                  alt="Chiaki - Series release order"
+                  alt="Chiaki"
                   className="mr-2"
                 />
-                Chiaki - Series release order
+                Chiaki
               </a>
             </li>
             <li className="flex items-center">
@@ -121,10 +121,10 @@ function App() {
               >
                 <img
                   src="https://static.everythingmoe.com/icons/mal.png"
-                  alt="MyAnimeList - Anime data"
+                  alt="MyAnimeList"
                   className="mr-2"
                 />
-                MyAnimeList - Anime data
+                MyAnimeList
               </a>
             </li>
             <li className="flex items-center">
@@ -136,10 +136,10 @@ function App() {
               >
                 <img
                   src="https://cdn.animixplay.to/s/fav/jikan.png"
-                  alt="Jikan - MAL Search"
+                  alt="Jikan"
                   className="mr-2"
                 />
-                Jikan - MAL Search
+                Jikan
               </a>
             </li>
             <li className="flex items-center">
@@ -151,10 +151,10 @@ function App() {
               >
                 <img
                   src="https://static.everythingmoe.com/icons/anilist.png"
-                  alt="AniList - Genre tags"
+                  alt="AniList"
                   className="mr-2"
                 />
-                AniList - Genre tags
+                AniList
               </a>
             </li>
             <li className="flex items-center">
@@ -166,10 +166,10 @@ function App() {
               >
                 <img
                   src="https://static.everythingmoe.com/icons/allani.png"
-                  alt="Allmanga - AL Manga"
+                  alt="Allmanga"
                   className="mr-2"
                 />
-                Allmanga - AL Manga
+                Allmanga
               </a>
             </li>
             <li className="flex items-center">
@@ -181,10 +181,10 @@ function App() {
               >
                 <img
                   src="https://cdn.animixplay.to/s/fav/mangar.png"
-                  alt="Manga reader - Manga links"
+                  alt="Manga reader"
                   className="mr-2"
                 />
-                Manga reader - Manga links
+                Manga reader
               </a>
             </li>
             <li className="flex items-center">
@@ -196,10 +196,10 @@ function App() {
               >
                 <img
                   src="https://static.everythingmoe.com/icons/comick.png"
-                  alt="ComicK - Manga links"
+                  alt="ComicK"
                   className="mr-2"
                 />
-                ComicK - Manga links
+                ComicK
               </a>
             </li>
           </ul>
