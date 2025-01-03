@@ -159,21 +159,6 @@ function App() {
             </li>
             <li className="flex items-center">
               <a
-                href="https://disqus.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center text-blue-400 hover:underline"
-              >
-                <img
-                  src="https://cdn.animixplay.to/s/fav/disqus.png"
-                  alt="Disqus - Comments section"
-                  className="mr-2"
-                />
-                Disqus - Comments section
-              </a>
-            </li>
-            <li className="flex items-center">
-              <a
                 href="https://allmanga.to/"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -220,13 +205,6 @@ function App() {
           </ul>
         </section>
       </main>
-
-      <footer className="mt-8 text-center text-sm text-gray-400">
-        <p className="text-sm">
-          &copy; {new Date().getFullYear()} Anime and Manga Reference.
-        </p>
-        <p className="text-sm">Designed and developed with 🤍 by modesage.</p>
-      </footer>
     </div>
   );
 }
