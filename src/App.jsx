@@ -46,7 +46,7 @@ function App() {
             </li>
             <li className="flex items-center">
               <a
-                href="https://hianime.to/home"
+                href="https://hianime.sx/home"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center text-blue-400 hover:underline"
